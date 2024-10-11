@@ -1,13 +1,19 @@
 # AWS-GEN-AI-hack-2024
 This repository contains all the required  files for each problem statement for AWS Hackethon.
 Each folder for every problem statement  conatins the following:
+
 1.Usecase: Each Problem Statement with the detailed usecase description along with architecture diagram and codeflow.
+
 2. Setup Files Instructions
    2.1 Permissions
    2.2 Prerequisites
+
 3. Sample Dataset
+
 4. Task List with Cheat code
+
 6. Sample Input/ Output
+
 
 Kindly clone this repo and follow the instructions mentioned in Step 2.
  
