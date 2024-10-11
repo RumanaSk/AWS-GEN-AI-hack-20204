@@ -2,11 +2,14 @@
 This repository contains all the required  files for each problem statement for AWS Hackethon.
 Each folder for every problem statement  conatins the following:
 
- 1.Usecase: Each Problem Statement with the detailed usecase description along with architecture diagram and codeflow.
+ 1.Each Problem Statement with the detailed usecase description along with architecture diagram and codeflow.
 
 2. Setup Files Instructions
+
    2.1 Permissions
+
    2.2 Prerequisites
+
 
 3. Sample Dataset
 
