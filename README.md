@@ -26,6 +26,11 @@ After cloning the repo make  sure you  uplaod the dataset in the bucket for emai
 Knowledge base will already be createdin your account for the flight travel usecase.
 if you are unable to access it, we have also shared instructions on how you could create it.
 
+HINTS:
+
+Kindly complete minimum 3 tasks to get the hints for each  usecase. Once you compelete 3 tasks or more you are eligible to access the cheatcode!
+Kindly note we will provide 2 hints per usecase. Make sure to use it wisely.
+
 
 Please feel free to connect with us if you face any challenge setting it up.
 Happy Coding!
