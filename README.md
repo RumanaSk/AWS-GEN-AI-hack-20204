@@ -13,7 +13,7 @@ Each folder for every problem statement  conatins the following:
 
 3. Sample Dataset
 
-4. Task List with Cheat code
+4. Task List with their Scores 
 
 6. Sample Input/ Output
 
