@@ -28,7 +28,7 @@ if you are unable to access it, we have also shared instructions on how you coul
 
 HINTS:
 
-Kindly complete minimum 3 tasks to get the hints for each  usecase. Once you compelete 3 tasks or more you are eligible to access the cheatcode!
+Kindly complete the tasks  tasks mentioned in task list  to get the hints for each usecase. Once you compelete relevant tasks you are eligible to access the cheatcodes!
 Kindly note we will provide 2 hints per usecase. Make sure to use it wisely.
 
 
