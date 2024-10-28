@@ -32,5 +32,7 @@ Kindly complete the tasks  tasks mentioned in task list  to get the hints for ea
 Kindly note we will provide 2 hints per usecase. Make sure to use it wisely.
 
 
+
+I have uploaded entire solution under this zip, post the hackethon Competetion : HACK-2024-main (2).zip
 Please feel free to connect with us if you face any challenge setting it up.
 Happy Coding!
